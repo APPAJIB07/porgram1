@@ -36,3 +36,4 @@ print(class_report)
 # Calculate accuracy
 accuracy = accuracy_score(y_test, y_pred)
 print(f"Accuracy: {accuracy:2f}")
+hi this is ml
